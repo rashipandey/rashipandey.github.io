@@ -59,9 +59,9 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Namaste! My name is</h1>;
-  const two = <h2 className="big-heading">Chandrika Deb</h2>;
-  const three = <h3 className="medium-heading">MBA | Marketing Enthusiast | Freelance Blogger</h3>;
+  const one = <h1>Hi! My name is</h1>;
+  const two = <h2 className="big-heading">Rashi Pandey</h2>;
+  const three = <h3 className="medium-heading">MSCS | Software Engineer | Tech Enthusiast</h3>;
   const four = (
     <>
       <p>
@@ -69,30 +69,35 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+        I am Rashi Pandey, an alumnus of {' '} <a href="https://www.ufl.edu/">
+        University of Florida</a> {' '} currently spearheading impactful development initiatives at {' '}
+        <a href="https://www.breathing.ai/">Breathing.ai</a>.
       </p>
 
 
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
-      </p>
+    Hey there! I'm a software developer who loves to wear many hats.<br />
+    My coding journey started with Java and Python, but I've since branched out to play with React, Node.js, and Spring Boot.<br />
+    What really gets me excited is working with others to create something awesome.<br />
+    Whether it's building a sleek app that users love or crafting behind-the-scenes magic that keeps everything running smoothly, I'm all in.
+</p>
+
+<p>
+I'm not just about writing code; I'm about solving problems and turning ideas into reality. So, if you've got a cool project in mind or a tricky problem to solve, let's chat! I'm always up for a new challenge and would love to see how we can make some digital magic together.
+</p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://chandrikadeb7.gumroad.com"
-      target="_blank"
-      rel="noreferrer">
-      Check out my products!
-    </a>
-  );
+  // const five = (
+  //   <a
+  //     className="email-link"
+  //     href="https://chandrikadeb7.gumroad.com"
+  //     target="_blank"
+  //     rel="noreferrer">
+  //     Check out my products!
+  //   </a>
+  // );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>

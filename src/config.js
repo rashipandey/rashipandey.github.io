@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'chandrikadeb7@gmail.com',
+  email: 'pandey.rashi07@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/rashipandey',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/chandrikadeb7',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/chandrikadeb7',
+    // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb',
+      url: 'https://www.linkedin.com/in/rashipandey7/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/u/rashipandey07/',
     },
   ],
 
