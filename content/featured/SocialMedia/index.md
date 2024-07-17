@@ -12,6 +12,8 @@ tech:
   - Redux
 ---
 
-I recently built a social media app that's pretty cool, if I do say so myself! Picture Facebook, but with my own twist. You can sign up, jazz up your profile with pics, and share posts with friends. The neat part? It's got this slick day/night mode that's easy on the eyes.
-I used some fancy tech stuff like React and Node.js to make it all come together smoothly. It's like building with high-tech Lego blocks – each piece fits just right to create something awesome.
-The best part? It's super smooth to use, whether you're on your phone or computer. It's been a fun ride bringing this project to life, and I'm pretty proud of how it turned out!
+I developed a comprehensive social media application that emulates key features of popular platforms like Facebook. The app includes user registration, profile customization with image uploads, and a post-sharing system. A notable feature is the implementation of a responsive day/night mode for improved user experience.
+
+The application leverages modern web technologies, primarily React for the frontend and Node.js for the backend. This tech stack ensures a robust and efficient architecture, facilitating smooth functionality across various devices and platforms.
+
+The development process involved integrating multiple components to create a cohesive and user-friendly interface. The result is a responsive and intuitive application that performs well on both mobile and desktop environments.
