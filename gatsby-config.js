@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Chandrika Deb',
-        short_name: 'Chandrika Deb',
+        name: 'Rashi Pandey',
+        short_name: 'Rashi Pandey',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
