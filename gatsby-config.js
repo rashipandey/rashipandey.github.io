@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Rashi Pandey',
     description:
-      'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
+      'Rashi Pandey is a software engineer who loves solving complex challenges.',
     siteUrl: 'https://rashipandey.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
